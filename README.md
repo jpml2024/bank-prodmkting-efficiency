@@ -61,7 +61,7 @@ This ***origial*** data is from telphone based direct marketing campaign done by
 The dataset analzyed here are from UCI Machine Learning repository https://archive.ics.uci.edu/dataset/222/bank+marketing
 
 
-Data file at : 
+Data file at : [data_file](data)
 
 **Data understanding report** :
 
